@@ -1,0 +1,2 @@
+numpy==1.24.0
+statistics  # Part of Python's standard library; no need to install
