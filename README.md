@@ -20,6 +20,8 @@ We’re just getting started and will continue to expand the content over time. 
 - **CentralTendency/**: Covers mean, median, and mode with Python examples.
 - **RangeFunction.ipynb**: Demonstrates how to calculate the range (difference between the maximum and minimum values) using Python's built-in functions, NumPy, and visualized with Matplotlib.
   ![Range Histogram](https://github.com/coder-akram-khan/Mathematics-ML-Series/blob/main/assets/range_histogram.png?raw=true)
+- **StandardDeviation.ipynb**: Organized and Clear Explanation of Standard Deviation with Variability. 
+  ![Standard Deviation Histogram](https://github.com/coder-akram-khan/Mathematics-ML-Series/blob/main/assets/standard_deviation_histogram.png?raw=true)
 - **README.md**: Overview of the project.
 - **requirements.txt**: List of dependencies.
 
